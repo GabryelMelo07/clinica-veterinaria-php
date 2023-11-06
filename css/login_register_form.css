@@ -1,0 +1,30 @@
+.nav-underline .nav-link.active {
+    color: #3f3f3f !important;
+}
+
+.nav-link {
+    color: #929692 !important;
+}
+
+#entrar-btn,
+#cadastrar-btn {
+    border-radius: 5px;
+    background-color: #303450 !important;
+    color: white;
+}
+
+#entrar-btn:hover,
+#cadastrar-btn:hover {
+    background-color: #5b5395 !important;
+}
+
+#middle-div {
+    border: 1px solid rgba(0, 0, 0, .09);
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.form-control {
+    border-radius: 5px !important;
+}
